@@ -1,0 +1,17 @@
+#labels Phase-Requirements
+A sort of TODO list with the things that have to be done moving forward to the 1.0 release of *fuzzycomp*.
+
+=Tasks=
+  * All algorithms should be fully documented. 
+  * Package should come with documentation supporting Sphinx.
+  * All algorithms should come with exhaustive unittests
+
+=Algorithms=
+The following algorithms should be added to future versions.
+ 
+  * [https://secure.wikimedia.org/wikipedia/en/wiki/Metaphone Metaphone]
+  * [https://secure.wikimedia.org/wikipedia/en/wiki/New_York_State_Identification_and_Intelligence_System New York State Identification and Intelligence System]
+
+==Nice to have==
+The following algorithms would be nice to have, but will not be considered a release blocker.
+  * [https://secure.wikimedia.org/wikipedia/en/wiki/Metaphone Double Metaphone]
