@@ -5,6 +5,7 @@ A sort of TODO list with the things that have to be done moving forward to the 1
   * All algorithms should be fully documented. 
   * Package should come with documentation supporting Sphinx.
   * All algorithms should come with exhaustive unittests
+  * Tox should be used to test against Python version 2.4 - 3.2
 
 =Algorithms=
 The following algorithms should be added to future versions.
