@@ -10,9 +10,9 @@ A sort of TODO list with the things that have to be done moving forward to the 1
 =Algorithms=
 The following algorithms should be added to future versions.
  
-  * [https://secure.wikimedia.org/wikipedia/en/wiki/Metaphone Metaphone]
-  * [https://secure.wikimedia.org/wikipedia/en/wiki/New_York_State_Identification_and_Intelligence_System New York State Identification and Intelligence System]
-  * [https://secure.wikimedia.org/wikipedia/en/wiki/Tversky_index Tversky Index]
+  * ~~[https://secure.wikimedia.org/wikipedia/en/wiki/Metaphone Metaphone]~~
+  * ~~[https://secure.wikimedia.org/wikipedia/en/wiki/New_York_State_Identification_and_Intelligence_System New York State Identification and Intelligence System]~~
+  * ~~[https://secure.wikimedia.org/wikipedia/en/wiki/Tversky_index Tversky Index]~~
 
 ==Nice to have==
 The following algorithms would be nice to have, but will not be considered a release blocker.
